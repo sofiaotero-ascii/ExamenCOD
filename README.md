@@ -39,3 +39,7 @@ git push origin main
 ## Creo un nuevo issue que debe ser contestado con un commmit
 
 ![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+## contesto mi issues 
+## psheo todo 
+## creo tag v1.o 
+## finalmente pusheo todo
