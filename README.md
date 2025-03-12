@@ -1,4 +1,4 @@
-## Cloné el repositorio:
+## Cloné el repositorio de examen:
 Usé el comando git clone para copiar el repositorio de GitHub a mi PC
 ## Entré a la carpeta del repositorio:
 Navegué al directorio del repositorio con el comando cd ExamenCOD.
